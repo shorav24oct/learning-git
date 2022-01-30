@@ -1,0 +1,9 @@
+git init .
+git add <file>
+git add . // add all files to staging area
+git status
+git push
+git pull
+git rm --cached <file>... to unstage
+git rm -r --cached . // to unstage all files
+
