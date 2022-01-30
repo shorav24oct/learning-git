@@ -1,1 +1,2 @@
+paclage main
 func main() {};
